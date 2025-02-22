@@ -1,0 +1,3 @@
+```
+assets.homelab.lan
+```

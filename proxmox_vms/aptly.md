@@ -1,0 +1,3 @@
+```
+aptly.homelab.lan
+```

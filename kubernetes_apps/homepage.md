@@ -1,0 +1,3 @@
+```
+homepage.homelab.lan
+```

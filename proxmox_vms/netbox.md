@@ -1,0 +1,3 @@
+```
+netbox.homelab.lan
+```

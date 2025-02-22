@@ -1,0 +1,3 @@
+```
+elk.homelab.lan
+```

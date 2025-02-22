@@ -1,0 +1,3 @@
+```
+vault.homelab.lan
+```

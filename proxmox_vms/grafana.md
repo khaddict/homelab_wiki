@@ -1,0 +1,3 @@
+```
+grafana.homelab.lan
+```
